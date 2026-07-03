@@ -16,6 +16,7 @@ const LINKS: NavItem[] = [
   { to: "/board", label: "Board" },
   { to: "/streams", label: "Streams" },
   { to: "/partners", label: "For partners" },
+  { to: "/team", label: "Who we are" },
 ];
 
 const GROUPS: NavGroup[] = [
